@@ -9,7 +9,7 @@
   <li>Recommandations</li>
 </ul>
 <h3>Project Description</h3>
-<p> Data analysis on a dataset of video games sold in North America, Europe, Japan, and other regions to determine what determine the sale of video game and what games to sell to enhance total sales! This project was solely done in python.</p>
+<p> This is a data analysis on a table of video games sold in North America, Europe, Japan, and other regions. The goal is to determine what drove the sales of video games. How the culture of different regions would influence the sales of games. Finally, I will recommand what game shops owners should do to get the right genres, titles and consoles to have a fantastic selling experience.</p>
 <h3>Dataset Description</h3>
 <p>
  This dataset is a single table dataset about video game sales. The cleaned table includes 17570 rows and 16 columns. It includes 12039 unique video game titles, 39 unique consoles, 20 genres, 673 publishers and 2663 developers with sales from North America, Europe, Japan, and other regions as well as the total sales. This table recorded video game sales from 1977-01-01 to 2020-12-31.
@@ -20,8 +20,7 @@
 
 <h3>Executive Summary</h3>
 <p>
-  Total sales ranges from 1977 with 2.5 million dollars from North America, Europe, Japan, and other regions and started accelerate in 1992 with exponential growth since then. It later reached a peak annual sale of 538.11 million dollars in 2008, and then it went down and drop to 3.45 million annual sales in 2020. The total sales had amounted to 6.6 billion dollars. The decline was caused by lack of data rather the reflection of the true industry economics. The top 2 consoles were PS series and Xbox series with total sales of 1046.86 million dollars and 859.93 million dollars respectively, and counts for 71% of total market. The most popular genres are Sports, Actions and Shooters with total sales of 1187.51, 1125.89 million and 995.5 million dollars, 50% of total sales. The most popular franchises are Grand Theft Auto, Call of Duty, FIFA. The most profitable publishers are Activation, EA, EA sports, Ubisoft, THQ with total sales of 722.77, 644.13,485.66, and 462.57 million dollars respectively. 
-</p>
+  Total sales ranges from 1977 with 2.5 million dollars from North America, Europe, Japan, and other regions and started accelerate in 1992 with exponential growth since then. It later reached a peak annual sale of 538.11 million dollars in 2008, and then it went down and drop to 3.45 million annual sales in 2020. The total sales had amounted to 6.6 billion dollars over the period. The decline was caused by lack of data rather than the decline of gaming industry. The top 2 consoles were PS series and Xbox series with total sales of 1046.86 million dollars and 859.93 million dollars respectively, and counts for 71% of total market. Top video games are always available in this two consoles. The most popular genres are Sports, Actions and Shooters with total sales of 1187.51, 1125.89 million and 995.5 million dollars, 50% of total sales. The most popular franchises are Grand Theft Auto, Call of Duty, FIFA. Genres and titles that are sold well are those related the most to a region's culture. The most profitable publishers are Activation, EA, EA sports, Ubisoft, THQ with total sales of 722.77, 644.13,485.66, and 462.57 million dollars respectively. Top publishers and developers have enough power to determine even dictate the direction of a region's gaming culture if not globally.</p>
 
 ![Sales_shares1](https://github.com/user-attachments/assets/8c471e12-1a52-49da-82b6-01a8200c6fc7)
 
