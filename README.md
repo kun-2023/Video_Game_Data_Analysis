@@ -9,7 +9,7 @@
   <li>Recommandations</li>
 </ul>
 <h3>Project Description</h3>
-<p> Data analysis on a dataset of video games sold in North America, Europe, Japan, and other regions to determine what determine the sale of video game and what games to sell to enhance total sales!</p>
+<p> Data analysis on a dataset of video games sold in North America, Europe, Japan, and other regions to determine what determine the sale of video game and what games to sell to enhance total sales! This project was solely done in python.</p>
 <h3>Dataset Description</h3>
 <p>
  This dataset is a single table dataset about video game sales. The cleaned table includes 17570 rows and 16 columns. It includes 12039 unique video game titles, 39 unique consoles, 20 genres, 673 publishers and 2663 developers with sales from North America, Europe, Japan, and other regions as well as the total sales. This table recorded video game sales from 1977-01-01 to 2020-12-31.
