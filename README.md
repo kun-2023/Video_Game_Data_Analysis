@@ -12,7 +12,7 @@
 <p> This is a data analysis on a table of video games sold in North America, Europe, Japan, and other regions. The goal is to determine what drove the sales of video games. How the culture of different regions would influence the sales of games. Finally, I will recommand what game shops owners should do to get the right genres, titles and consoles to have a fantastic selling experience.</p>
 <h3>Dataset Description</h3>
 <p>
- This dataset is a single table dataset about video game sales. The cleaned table includes 17570 rows and 16 columns. It includes 12039 unique video game titles, 39 unique consoles, 20 genres, 673 publishers and 2663 developers with sales from North America, Europe, Japan, and other regions as well as the total sales. This table recorded video game sales from 1977-01-01 to 2020-12-31.
+ This dataset is downloaded from <a href="https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=business">Maven data playground</a>. It is a single table dataset about video game sales. The cleaned table includes 17570 rows and 16 columns. It includes 12039 unique video game titles, 39 unique consoles, 20 genres, 673 publishers and 2663 developers with sales from North America, Europe, Japan, and other regions as well as the total sales. This table recorded video game sales from 1977-01-01 to 2020-12-31.
 </p>
 
 ![table](https://github.com/user-attachments/assets/ea1fd3dd-bd75-40b8-bc38-338ff0d0b0b6)
