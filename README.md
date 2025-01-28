@@ -7,9 +7,10 @@
   <li>Data Cleaning</li>
   <li>Deep Dives</li>
   <li>Recommandations</li>
+  <li>Tableau Dashboard.</li>
 </ul>
 <h3>Project Description</h3>
-<p> This is a data analysis on a table of video games sold in North America, Europe, Japan, and other regions. The goal is to determine what drove the sales of video games. How the culture of different regions would influence the sales of games. Finally, I will recommand what game shops owners should do to get the right genres, titles and consoles to have a fantastic selling experience.</p>
+<p> This is a data analysis on a table of video games sold in North America, Europe, Japan, and other regions. The goal is to determine what drove the sales of video games. How the culture of different regions would influence the sales of games. Finally, I will recommand what game shops owners should do to get the right genres, titles and consoles to have a fantastic selling experience. The data analysis was done in python. The dashboard was done in tableau. </p>
 <h3>Dataset Description</h3>
 <p>
  This dataset is downloaded from <a href="https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=business">Maven data playground</a>. It is a single table dataset about video game sales. The cleaned table includes 17570 rows and 16 columns. It includes 12039 unique video game titles, 39 unique consoles, 20 genres, 673 publishers and 2663 developers with sales from North America, Europe, Japan, and other regions as well as the total sales. This table recorded video game sales from 1977-01-01 to 2020-12-31.
@@ -76,4 +77,9 @@
 <p>
  Bestselling titles and bestselling genres are very dear to regions’ own cultures and tend to under perform in others. However, it could over perform if the culture is influential in other regions. For game retail stores, they should sell and promote titles and the genres, which are center to the region’s cultures. Soccer is very popular in Europe; that’s why FIFA was doing well in Europe. Basketball and football are popular in the states, but the video games are not, those games should be promoted and pushed to get better sales in the regions, both games are not in top 10 currently.  FIFA is doing well in Europe but not Japan, and people in Japan love soccer as well, so it would be a good idea to promote FIFA games to Japanese market and to try win a spot in top 10 titles. FIFA could also be promoted to Chinese market since Chinese people are crazy about soccer as well, and Chinese market is large. In addition, American’s popular video games should also be promoted in China since America cultures are still influential in China.  Also, any game stores should prioritize PS, Xbox, and Nintendo gaming consoles since most games are only available in the three consoles. For example, most Japanese games are only available in Japanese consoles. If developers want to take a bite of Japanese gaming market, it’s better off to collaborate with Japanese local companies since Japanese are very protective of their cultures.  
 </p>
+<h4>Tableau Dashboard</h4>
+<p> Go to <a href="https://public.tableau.com/app/profile/kun.bi/viz/maven_game_store/AllTheMarket">Dashboard</a>.</p>
+
+![Maven_game_dashboard](https://github.com/user-attachments/assets/9374f2ed-11c0-41e8-920b-11ea72a48749)
+
 
